@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="50usd" size="70.000000 29.330000" />
+    <ImageTarget name="100try" size="70.000000 32.200001" />
+    <ImageTarget name="200try" size="70.000000 36.115944" />
+    <ImageTarget name="50try" size="70.000000 31.470085" />
+    <ImageTarget name="20try" size="70.000000 33.950001" />
+    <ImageTarget name="10try" size="70.000000 33.075001" />
+    <ImageTarget name="5try" size="70.000000 42.777779" />
+    <ImageTarget name="5usd" size="70.000000 31.341463" />
+    <ImageTarget name="100usd" size="70.000000 29.377048" />
+    <ImageTarget name="10usd" size="70.000000 30.082645" />
+    <ImageTarget name="2usd" size="70.000000 29.912790" />
+    <ImageTarget name="1usd" size="70.000000 30.394737" />
+  </Tracking>
+</QCARConfig>
